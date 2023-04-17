@@ -13,7 +13,7 @@ Money Matters is a personal finance management app that helps individuals keep t
 * Android Studio
 * Kotlin
 ## Installation
-1. Clone the repository: git clone https://github.com/Moses7435/money-matters.git
+1. Clone the repository: git clone https://github.com/Moses7435/Expense-Tracker-App.git
 2. Open the project in Android Studio
 3. Run the app on an Android emulator or device
 ## Usage
